@@ -8,7 +8,7 @@ Hi 👋 My name is Ian Philip Eglin
 * 🖥️  See my portfolio at [ipeglin.no](http://home.ipeglin.no)
 * ✉️  You can contact me at [philip@eglin.no](mailto:philip@eglin.no)
 * 🚀  I'm currently working on [WaveFormsTk](http://github.com/ipeglin/WaveFormsTk)
-* 🧠  I'm learning C and Assembly
+* 🧠  I'm learning C and Assembly on ARM Thumb-2
 
 ### Skills
 
