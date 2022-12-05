@@ -1,7 +1,7 @@
 **Hi 👋, I'm Philip**
 =================================
 
-**... a student of Electronic systems design and innovation**
+**... and am currently studying electronic systems design and innovation**
 ---------------------------------------------------------
 
 **🌍  I'm based in Trondheim, Norway.**
