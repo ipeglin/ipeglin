@@ -58,10 +58,12 @@
 <br>
 <br>
 
+<!--
 ### **Top Repositories**
 
 <div width="100%" align="center"><a href="https://github.com/ipeglin/WaveFormsTk" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ipeglin&repo=WaveFormsTk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ipeglin/TDT4102" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ipeglin&repo=TDT4102&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/ipeglin/TDT4110" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ipeglin&repo=TDT4110&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ipeglin/crew-assistant-bot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ipeglin&repo=crew-assistant-bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/ipeglin/TDT4110" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ipeglin&repo=TDT4110&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ipeglin/crew-assistant-bot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ipeglin&repo=ipeglin.no&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+-->
