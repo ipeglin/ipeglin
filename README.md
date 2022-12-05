@@ -32,23 +32,21 @@
 
 **💬 If there is something else, my inbox is always open.**
 <br>
-<div id="socials">
-  <a class="social-badge" href="https://www.linkedin.com/in/ipeglin" target="_blank">
+  <a style="padding-right: 5px;" class="social-badge" href="https://www.linkedin.com/in/ipeglin" target="_blank">
    <img alt="Ian Philip Eglin | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a class="social-badge" href="mailto:philip@eglin.no" target="_blank">
+  <a style="padding-right: 5px;" class="social-badge" href="mailto:philip@eglin.no" target="_blank">
     <img alt="Ian Philip Eglin | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a class="social-badge" href="https://twitter.com/PhilipEglin" target="_blank">
+  <a style="padding-right: 5px;" class="social-badge" href="https://twitter.com/PhilipEglin" target="_blank">
     <img alt="Ian Philip Eglin | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a class="social-badge" href="https://www.instagram.com/ipeglin/" target="_blank">
+  <a style="padding-right: 5px;" class="social-badge" href="https://www.instagram.com/ipeglin/" target="_blank">
     <img alt="Ian Philip Eglin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  />
   </a>
   <a class="social-badge" href="https://dev.to/ipeglin" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ian Philip Eglin's DEV Profile" height="30" width="30">
 </a>
-</div>
 <br>
 <br>
 
