@@ -15,7 +15,7 @@
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://cplusplus.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/cpp.svg"></a></code>
 <code><a href="https://vuejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
-<code><a href="https://svelte.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sveltejs/sveltejs-ar21.svg"></a></code>
+<code><a href="https://svelte.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://expressjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
