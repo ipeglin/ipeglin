@@ -23,10 +23,13 @@
 <br>
 <br>
 
-### **🔬 Looking forward to learning:**
-<code><a href="https://svelte.dev/" target="_blank"><img height="50" width="100" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/svelte.svg"></a></code>
-<code><a href="https://www.lua.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></a></code>
+### **🧭 Currently exploring:**
 <code><a href="https://www.rust-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
+<br>
+<br>
+
+### **🔬 Looking forward to learning:**
+<code><a href="https://www.lua.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></a></code>
 <br>
 <br>
 
