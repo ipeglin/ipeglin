@@ -8,7 +8,7 @@
 <br>
 **🚀  I'm currently working on my [Portfolio Website](https://ipeglin.no).**
 <br>
-**🧠  I'm currently learning C and Assembly on ARM Thumb-2.**
+**🧠  I'm currently learning SvelteKit and Rust.**
 ### **📚 Tech I'm currently using:**
 <br>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
