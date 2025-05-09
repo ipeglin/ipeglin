@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">A curious electrical engineering student from Norway.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipeglin&label=Profile%20views&color=0e75b6&style=flat" alt="ipeglin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipeglin" alt="ipeglin" /></a> </p>
-
 - 🔭 I’m currently working on [a uni. course inspired elevator project](https://github.com/ipeglin/elevators)
 
 - 🌱 I’m currently learning **Rust**
