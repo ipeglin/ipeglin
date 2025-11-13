@@ -1,4 +1,4 @@
-# Philip Eglin
+# Ian Philip Eglin
 
 **Master's Student in Electronics Engineering, NTNU | Signal Processing & Medical Imaging**
 
