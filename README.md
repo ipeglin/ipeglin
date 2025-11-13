@@ -1,8 +1,8 @@
 # Philip Eglin
 
-**Master's Student in Electronics Engineering, NTNU | Signal Processing & Medical Imaging Specialist**
+**Master's Student in Electronics Engineering, NTNU | Signal Processing & Medical Imaging**
 
-Final-year master's student in electronics engineering at NTNU, Norway, with expertise in signal processing, medical imaging, and web development. Currently exploring systems programming with Rust and working on distributed systems projects.
+Final-year master's student in electronics engineering at NTNU, Norway, with specialisation in signal processing and medical imaging. Currently exploring systems programming with Rust and working on distributed systems projects.
 
 ## Technical Expertise
 
